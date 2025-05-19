@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Percorso da backuppare
 HOME_DIR="/home/ilda"
 
